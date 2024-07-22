@@ -4,7 +4,9 @@
 </p>
 
 # 
-![](https://komarev.com/ghpvc/?username=baoispro&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=baoispro&color=brightgreen) ![](https://custom-icon-badges.demolab.com/github/followers/baoispro?logo=person-add&style=social&logoColor=black) ![](https://custom-icon-badges.demolab.com/github/stars/baoispro?logo=star&style=social&logoColor=black)
+
+I'm a passionate software engineer from Vietnam, dedicated to continuous learning and growth. I specialize in [mention your key skills or technologies, e.g., JavaScript, React, and Node.js], and I enjoy working on innovative projects that solve real-world problems.
 
 
 

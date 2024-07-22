@@ -1,7 +1,9 @@
 <p style="display: flex; align-items: center;">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=monsterat&weight=200&duration=2000&pause=1000&color=31F728&width=300&height=35&lines=Hi%2C+I'm+Nguy%E1%BB%85n+L%C3%AA+Gia+B%E1%BA%A3o+" alt="Typing SVG" /></a>
-  <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" alt="waving-hand" width="30" height="30" style="margin-bottom: 30px;">
+  <img src="header.svg" style="width: 100%;" alt="Click to see the source">
 </p>
+
+
 
 
 

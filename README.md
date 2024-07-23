@@ -25,7 +25,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/baoispro13170/"><img width="32px" alt="Instagram" title="Instagram" src="https://img.icons8.com/?size=100&id=32309&format=png&color=f75c7e"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="nguyenlegiabao810@gmail.com"><img width="32px" alt="Email" title="Email" src="https://img.icons8.com/?size=100&id=12623&format=png&color=f75c7e"/></a>
+  <a href="mailto:nguyenlegiabao810@gmail.com"><img width="32px" alt="Email" title="Email" src="https://img.icons8.com/?size=100&id=12623&format=png&color=f75c7e"/></a>
 </p>
 
 <!--

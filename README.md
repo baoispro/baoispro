@@ -7,10 +7,12 @@
 ![](https://komarev.com/ghpvc/?username=baoispro&color=brightgreen) ![](https://custom-icon-badges.demolab.com/github/followers/baoispro?logo=person-add&style=social&logoColor=black) ![](https://custom-icon-badges.demolab.com/github/stars/baoispro?logo=star&style=social&logoColor=black)
 
 <p align="justify">I'm a passionate software engineer from Vietnam, dedicated to continuous learning and growth. I specialize in [mention your key skills or technologies, e.g., JavaScript, React, and Node.js], and I enjoy working on innovative projects that solve real-world problems.</p>
-
+<img align="right" width="25%" alt="Youtube" title="Youtube" src="https://gifdb.com/images/high/green-static-background-hacking-zxdixjwjemrjnoen.gif"/>
+<p align="left">
 🧑 Gender : Male.</br>
 👨‍🎓 Studying Sofware Engineering at Industrial University of Ho Chi Minh City (IUH).</br>
 👨‍💻 Occupation: undergraduate (Senior student)
+</p>
 
 # 📫 How to reach me
 <!-- Social icons section -->
@@ -27,6 +29,8 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:nguyenlegiabao810@gmail.com"><img width="32px" alt="Email" title="Email" src="https://img.icons8.com/?size=100&id=12623&format=png&color=f75c7e"/></a>
 </p>
+
+# 🛠️ Skills
 
 <!--
 **baoispro/baoispro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

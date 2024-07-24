@@ -11,7 +11,7 @@
 <p align="left">
 🧑 Gender : Male.</br>
 👨‍🎓 Studying Sofware Engineering at Industrial University of Ho Chi Minh City (IUH).</br>
-👨‍💻 Occupation: undergraduate (Senior student)
+👨‍💻 Occupation: undergraduate (Senior student).
 </p>
 
 # 📫 How to reach me
@@ -76,6 +76,15 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" title="Git"/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github" title="Github"/>
 </p>
+
+# 📊 My stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=baoispro&show_icons=true&theme=panda" alt="Githubstat" title="GithubStat" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baoispro&layout=compact&theme=panda" alt="TopLanguages" title="TopLanguages" height="192px"/>
+  <img src="https://streak-stats.demolab.com/?user=baoispro&theme=panda" alt="streakStat" title="streakStat"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baoispro&theme=material" alt="activityContribution" title="activityContribution"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" alt="trophyProfileGithub" title="trophyProfileGithub"/>
+</div>
 
 <!--
 **baoispro/baoispro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

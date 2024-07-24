@@ -8,6 +8,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: baoispro/github-activity-readme@main
+      - uses: baoispro/baoispro@main
         with:
           GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'

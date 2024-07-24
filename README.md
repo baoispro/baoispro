@@ -77,14 +77,16 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github" title="Github"/>
 </p>
 
-# 📊 My stats
+<details>
+  <summary><h2>📊 My stats</h2></summary> 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baoispro&show_icons=true&theme=panda" alt="Githubstat" title="GithubStat" height="192px" width="40%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baoispro&layout=compact&theme=panda" alt="TopLanguages" title="TopLanguages" height="192px" width="30%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=baoispro&show_icons=true&theme=panda" alt="Githubstat" title="GithubStat" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baoispro&layout=compact&theme=panda" alt="TopLanguages" title="TopLanguages" height="192px"/>
   <img src="https://streak-stats.demolab.com/?user=baoispro&theme=panda" alt="streakStat" title="streakStat" height="192px" width="40%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baoispro&theme=material" alt="activityContribution" title="activityContribution" height="192px" width="40%"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" alt="trophyProfileGithub" title="trophyProfileGithub" width="80%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baoispro&theme=material" alt="activityContribution" title="activityContribution"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" alt="trophyProfileGithub" title="trophyProfileGithub"/>
 </div>
+</details>
 
 <!--
 **baoispro/baoispro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

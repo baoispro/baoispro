@@ -88,6 +88,12 @@
 </div>
 </details>
 
+<details>
+  <summary><h2>⚡ Recent GitHub Activities</h2></summary> 
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
+</details>
+
 <!--
 **baoispro/baoispro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

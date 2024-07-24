@@ -94,6 +94,11 @@
   <!--END_SECTION:activity-->
 </details>
 
+<details>
+  <summary><h2>🏷️ Holopin Badges</h2></summary> 
+  <a href="https://holopin.io/@baoispro"><img src="https://holopin.me/baoispro" alt="An image of @baoispro's Holopin badges, which is a link to view their full Holopin profile"/></a>
+</details>
+
 <!--
 **baoispro/baoispro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
